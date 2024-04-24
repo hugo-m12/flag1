@@ -11,7 +11,7 @@ Factos:
 Links 
 
 Imagens 
-![aerial view ](y4fyshrv0wm61.jpg)
+![aerial view](y4fyshrv0wm61.jpg)
 
 [Barcelona] (https://www.barcelona.cat/en)
 
