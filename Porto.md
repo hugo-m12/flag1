@@ -4,7 +4,7 @@
 
 Factos: 
 -  Melhor cidade do Mundo :D
-- Tem origem num povoado celta, pré-romano
+-  Tem origem num povoado celta, pré-romano
 
 Links 
 
